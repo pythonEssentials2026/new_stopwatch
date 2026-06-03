@@ -111,18 +111,6 @@ The same architectural patterns apply directly to **industrial IoT**, **test ins
 
 ---
 
-## Alignment with Professional Goals
-
-This project reflects my focus on **embedded and IoT engineering roles** involving:
-
-* Firmware development in C/C++
-* Hardware‑software integration
-* Embedded networking and device‑hosted UIs
-* Designing complete, production‑style systems rather than isolated demos
-
-It complements my broader portfolio of ESP32‑based systems, custom PCBs, and device interfaces.
-
----
 
 
 
